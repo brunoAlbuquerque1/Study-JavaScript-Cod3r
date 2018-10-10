@@ -1,2 +1,3 @@
-# Study-JavaScript-Cod3r
-Estudo JavaScript pela Cod3r 
+# Study-JavaScript - Origamid 
+Estudo JavaScript pela Origamid
+
